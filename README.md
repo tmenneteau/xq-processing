@@ -27,7 +27,9 @@ This code allows to generate a csv file compatible with xiVIEW input constraints
   - XXXX.csv
   This parameter is the Validate_XL_v2.py output file to be processed.
   - mzxml_folder XXXX/YYYY/
-  This parameter is the folder where all the mzxml used for xQuest 
+  This parameter is the folder where are all the mzxml used for xQuest 
+  - output_filename ZZZZZZZ
+  This parameter is used as the name of the csv file (ZZZZZ.csv) and the mgf file (ZZZZ.mgf) 
   
   
 ## Acknowledgement
