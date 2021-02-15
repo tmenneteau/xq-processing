@@ -13,8 +13,8 @@ Code to convert xQuest output to xiVIEW input
 ## Validate_XL_v2.py
 This code is a modified version of ValidateXL available in this repository: https://github.com/ThalassinosLab/ValidateXL
 The edits performed allow to:
-  - Generate csv files for looplinks;
-  - Generate csv files for monolinks;
+  - Generate csv files for looplinks (still need to be optimised);
+  - Generate csv files for monolinks (still need to be optimised);
   - Add the spectrum number for both light and heavy labelled version of a crosslink;
   - Add the retention time for both light and heavy labelled version of a crosslink;
   - Add the m/z of the light and heavy labelled version of a crosslink.
